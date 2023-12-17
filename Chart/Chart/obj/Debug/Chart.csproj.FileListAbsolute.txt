@@ -1,0 +1,10 @@
+C:\Users\kangf\AppData\Local\Temporary Projects\Chart\bin\Debug\Chart.exe.config
+C:\Users\kangf\AppData\Local\Temporary Projects\Chart\bin\Debug\Chart.exe
+C:\Users\kangf\AppData\Local\Temporary Projects\Chart\bin\Debug\Chart.pdb
+C:\Users\kangf\AppData\Local\Temporary Projects\Chart\obj\Debug\Chart.csprojAssemblyReference.cache
+C:\Users\kangf\AppData\Local\Temporary Projects\Chart\obj\Debug\Chart.Form1.resources
+C:\Users\kangf\AppData\Local\Temporary Projects\Chart\obj\Debug\Chart.Properties.Resources.resources
+C:\Users\kangf\AppData\Local\Temporary Projects\Chart\obj\Debug\Chart.csproj.GenerateResource.cache
+C:\Users\kangf\AppData\Local\Temporary Projects\Chart\obj\Debug\Chart.csproj.CoreCompileInputs.cache
+C:\Users\kangf\AppData\Local\Temporary Projects\Chart\obj\Debug\Chart.exe
+C:\Users\kangf\AppData\Local\Temporary Projects\Chart\obj\Debug\Chart.pdb
